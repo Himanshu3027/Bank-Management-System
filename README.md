@@ -36,4 +36,3 @@ Run the program through a Python IDE or terminal and follow the interactive prom
 
 ## Disclaimer
 This system is a simplified educational project and is not intended for production use.
-
